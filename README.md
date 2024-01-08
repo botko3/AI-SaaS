@@ -1,4 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Introduction:
+
+This is an AI-SaaS built on [Next.js](https://nextjs.org/)  bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It has following functionalities:
+
+<img width="1024" alt="Screenshot 2024-01-08 at 4 49 00 PM" src="https://github.com/botko3/AI-SaaS/assets/112144946/332af43c-cf7a-42a0-8d18-773876f6cffa">
+
+<br>
+
+<br>
+
+Finished Part:
+<ul>
+  <li>conversation</li>
+</ul>
+
+<br>
+
+Future Plan:
+<ul>
+  <li>image generation</li>
+</ul>
+
+<br>
+
+Please let me know if anything.
+<br>
+
+
+
+
 
 ## Getting Started
 
